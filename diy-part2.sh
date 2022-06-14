@@ -1,5 +1,4 @@
 #!/bin/bash
-git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
 #
